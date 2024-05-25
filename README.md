@@ -68,6 +68,7 @@ python-dotenv==1.0.0
 pydantic==2.1.1
 pytest==7.1.2
 httpx==0.23.0
+pytest-asyncio 
 
 ## Explanation:
 
